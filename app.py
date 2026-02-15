@@ -218,16 +218,9 @@ def main():
             with st.expander("👀 Preview Data (First 10 rows)", expanded=False):
                 st.dataframe(df.head(10))
             
-            # Identify target column
-            st.markdown("### 🎯 Target Column")
-            target_col = st.selectbox(
-                "Select the target column:",
-                df.columns.tolist(),
-                index=len(df.columns) - 1,
-                help="Choose the column containing the true labels"
-            )
-            
-            st.info(f"Selected target: **{target_col}**")
+            # Auto-detect target column (last column)
+            target_col = df.columns[-1]
+            st.info(f"📌 **Target column (auto-detected):** `{target_col}` (last column)")
             
             # Prepare data
             if st.button("🚀 Run Prediction", type="primary"):
