@@ -13,7 +13,7 @@
 **Course:** M.Tech (AIML/DSE) - Machine Learning  
 **Institution:** BITS Pilani Work Integrated Learning Programmes  
 
-**Submission Date:** [Insert Date]  
+**Submission Date:** [15-FEB-2026]  
 **Assignment Deadline:** 15-Feb-2026, 11:59 PM
 
 </div>
@@ -52,7 +52,7 @@
 
 ### 3. BITS Virtual Lab Screenshot
 
-[INSERT YOUR SCREENSHOT HERE]
+![BITS Virtual Lab Screenshot](screenshots/bits_virtual_lab.png)
 
 **Screenshot shows:**
 - BITS Virtual Lab environment
