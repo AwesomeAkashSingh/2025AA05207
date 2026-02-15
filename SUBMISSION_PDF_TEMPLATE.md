@@ -52,7 +52,7 @@
 
 ### 3. BITS Virtual Lab Screenshot
 
-![BITS Virtual Lab Screenshot](screenshots/bits_virtual_lab.png)
+![BITS Virtual Lab Screenshot](C:\Users\hp\Desktop\2025AA05207\screenshots\bits_virtual_lab.jpg)
 
 **Screenshot shows:**
 - BITS Virtual Lab environment
