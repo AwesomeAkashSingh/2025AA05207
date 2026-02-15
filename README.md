@@ -378,7 +378,7 @@ Interpretability needed           → Logistic Regression (Clear coefficients)
 2. ✅ Conduct A/B test with 10% traffic for 2 weeks
 3. ✅ Validate business metrics (approval rate, default rate)
 4. ✅ Roll out to production with monitoring dashboard
-5. ✅ Schedule quarterly model retraining and evaluation
+5. ✅ Schedule quarterly model retraining and evaluation.
 
 ---
 
